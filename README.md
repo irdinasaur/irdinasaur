@@ -11,7 +11,7 @@ I am first-year student in Universiti Teknologi Malaysia that are currently taki
 * ✉️  You can contact me at [irdinahannah@graduate.utm.my](mailto:irdinahannah@graduate.utm.my)
 * 🧠  I'm learning Digital logic, Technology and Information System, C++ programming language and integrity course.
 * 🤝  I'm open to collaborating on interesting projects
-* 💞️ I’m interested in arts and painting
+* 💞️  An INFJ who loves art and musics
 * ⚡  one dessert a day keep the frowns away
 
 ### Skills
